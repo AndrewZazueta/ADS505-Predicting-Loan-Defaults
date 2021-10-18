@@ -3,6 +3,14 @@ We use Python to perform EDA, preprocessing, data splitting, model building, and
 
 Files and their contents:
 
-**ADS505ProjectCode.ipynb** - Combined final template of Jupyter Notebook code and detailed explinations
+**ADS505ProjectCode.ipynb** - Combined final template of Jupyter Notebook code and detailed explanations
 
-**Business Brief.pdf** - PDF document of project business brief.
+**Business Brief- Team 6.pdf** - PDF document of project business brief.
+
+**Data Story PowerPoint- Team 6.pptx** - PowerPoint Slides to project data story segment of presentation.
+
+**Intro.mp4** - Part 1 of 3 of technical report presentation. Introducing the background and purpose of project. 
+
+**EDA.mp4** - Part 2 of 3 of technical report presentation. Exploratory Data Analysis and data wrangling/data preprocessing are explained here.
+
+**ModelPortion.mp4** - Part 3 of 3 of technical report presentation. Discussion of the models used and evaluation metrics are explained here. 
